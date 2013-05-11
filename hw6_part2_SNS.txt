@@ -1,0 +1,43 @@
+                                                                                                                                                                                                                                                               
+Delivered-To: andrewmelis@gmail.com
+Received: by 10.60.94.43 with SMTP id cz11csp117865oeb;
+        Sat, 11 May 2013 13:20:30 -0700 (PDT)
+X-Received: by 10.229.151.134 with SMTP id c6mr6242798qcw.58.1368303630537;
+        Sat, 11 May 2013 13:20:30 -0700 (PDT)
+Return-Path: <20130511202029edcc61f4259a467f8434fcab093e596f@bounces.amazon.com>
+Received: from smtp-out-212-32.amazon.com (smtp-out-212-32.amazon.com. [72.21.212.32])
+        by mx.google.com with ESMTP id c15si2247892qcx.37.2013.05.11.13.20.30
+        for <andrewmelis@gmail.com>;
+        Sat, 11 May 2013 13:20:30 -0700 (PDT)
+Received-SPF: pass (google.com: domain of 20130511202029edcc61f4259a467f8434fcab093e596f@bounces.amazon.com designates 72.21.212.32 as permitted sender) client-ip=72.21.212.32;
+Authentication-Results: mx.google.com;
+       spf=pass (google.com: domain of 20130511202029edcc61f4259a467f8434fcab093e596f@bounces.amazon.com designates 72.21.212.32 as permitted sender) smtp.mail=20130511202029edcc61f4259a467f8434fcab093e596f@bounces.amazon.com
+Return-Path: 20130511202029edcc61f4259a467f8434fcab093e596f@bounces.amazon.com
+Date: Sat, 11 May 2013 20:20:30 +0000
+From: HW6 Test <no-reply@sns.amazonaws.com>
+To: "andrewmelis@gmail.com" <andrewmelis@gmail.com>
+Message-ID: <0000013e954076a9-75d8b147-4603-4c52-ad4a-ba8822987814-000000@email.amazonses.com>
+Subject: AWS Notification - Subscription Confirmation
+MIME-Version: 1.0
+Content-Type: multipart/mixed; 
+	boundary="----=_Part_3530022_1218814409.1368303629934"
+Bounces-to: 20130511202029edcc61f4259a467f8434fcab093e596f@bounces.amazon.com
+X-AMAZON-MAIL-RELAY-TYPE: notification
+X-AMAZON-RTE-VERSION: 2.0
+X-Original-MessageID: <urn.correios.msg.20130511202029edcc61f4259a467f8434fcab093e596f@1368303629936.rte-svc-1e-i-81d482f1.us-east-1.amazon.com>
+X-SES-Outgoing: 72.21.212.32
+
+------=_Part_3530022_1218814409.1368303629934
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+<html>
+	<body>
+		<p>You have chosen to subscribe to the topic:
+		<br /><b>arn:aws:sns:us-west-2:405483072970:51083-HW6-Melis_Andrew</b></p>
+		<p>To confirm this subscription, click or visit the link below (If this was in error no action is necessary):
+		<br /><a href="https://sns.us-west-2.amazonaws.com/confirmation.html?TopicArn=arn:aws:sns:us-west-2:405483072970:51083-HW6-Melis_Andrew&Token=2336412f37fb687f5d51e6e241d164b14be0fb95b7edd41a228aa794f30f8caaa0ffb6152b7c3173e545ce5194ada1139af27d5b2c31d757320b8ba7e2f4cf66f8fa28a856376461c9b0750f40ec1705e10e71db4cff9042ab892eca3623233cf852cdfe9348a5e591abe6f706d474580d7d832bdbea111ea2cfb8a6d634e204&Endpoint=andrewmelis@gmail.com">Confirm subscription</a></p>
+		<p><small>Please do not reply directly to this e-mail. If you wish to remove yourself from receiving all future SNS subscription confirmation requests please send email to <a href="mailto:sns-opt-out@amazon.com">sns-opt-out</a></small></p>
+	</body>
+</html>
+------=_Part_3530022_1218814409.1368303629934--
