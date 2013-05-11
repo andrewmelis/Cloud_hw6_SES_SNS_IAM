@@ -1,0 +1,28 @@
+                                                                                                                                                                                                                                                               
+Delivered-To: andrewmelis@gmail.com
+Received: by 10.60.94.43 with SMTP id cz11csp117465oeb;
+        Sat, 11 May 2013 13:03:49 -0700 (PDT)
+X-Received: by 10.224.221.136 with SMTP id ic8mr15570992qab.17.1368302628811;
+        Sat, 11 May 2013 13:03:48 -0700 (PDT)
+Return-Path: <0000013e95312c1b-6ef4c138-35a5-4e9e-aa50-52885d65d249-000000@amazonses.com>
+Received: from a194-13.smtp-out.amazonses.com (a194-13.smtp-out.amazonses.com. [199.255.194.13])
+        by mx.google.com with ESMTP id k1si5140729qaz.7.2013.05.11.13.03.48
+        for <andrewmelis@gmail.com>;
+        Sat, 11 May 2013 13:03:48 -0700 (PDT)
+Received-SPF: pass (google.com: domain of 0000013e95312c1b-6ef4c138-35a5-4e9e-aa50-52885d65d249-000000@amazonses.com designates 199.255.194.13 as permitted sender) client-ip=199.255.194.13;
+Authentication-Results: mx.google.com;
+       spf=pass (google.com: domain of 0000013e95312c1b-6ef4c138-35a5-4e9e-aa50-52885d65d249-000000@amazonses.com designates 199.255.194.13 as permitted sender) smtp.mail=0000013e95312c1b-6ef4c138-35a5-4e9e-aa50-52885d65d249-000000@amazonses.com
+Return-Path: 0000013e95312c1b-6ef4c138-35a5-4e9e-aa50-52885d65d249-000000@amazonses.com
+From: andrewmelis@gmail.com
+To: andrewmelis@gmail.com
+Subject: CSPP51083 HW6 Part 1
+MIME-Version: 1.0
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+Date: Sat, 11 May 2013 20:03:47 +0000
+Message-ID: <0000013e95312c1b-6ef4c138-35a5-4e9e-aa50-52885d65d249-000000@email.amazonses.com>
+X-SES-Outgoing: 199.255.194.13
+
+This is a test for part 1 of hw6 for CSPP51083 - Cloud Computing.
+
+-Andrew
